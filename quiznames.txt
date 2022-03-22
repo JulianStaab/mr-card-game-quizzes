@@ -1,1 +1,3 @@
 LockhartQuiz
+GeographyQuiz
+HistoryQuiz
